@@ -1,3 +1,7 @@
+plugins {
+    id("com.savvasdalkitsis.module-dependency-graph") version "0.10"
+}
+
 repositories {
     mavenCentral()
 }
